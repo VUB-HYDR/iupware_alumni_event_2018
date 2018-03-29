@@ -1,5 +1,5 @@
 # IUPWARE Alumni Event 2018
-Presentations and metadata from the IUPWARE Alumni event 2018 in Cuenca, Ecuador.
+Presentations and metadata from the IUPWARE Alumni Event 2018 in Cuenca, Ecuador.
 
 Currently, not all presentations are available. We encourage all participants to forward a pdf of their presentation to cas.neyens@vub.be
 
